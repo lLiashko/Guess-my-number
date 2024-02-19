@@ -1,1 +1,1 @@
-# Guess-my-number
+# Game 'Guess-my-number'
