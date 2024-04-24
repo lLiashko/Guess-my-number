@@ -4,7 +4,7 @@ Welcome to the Random Number Guessing Game! This simple game challenges you to g
 
 # How to Play
 
-1. Launch the Game.  [\[DemoLink\]: ](https://lliashko.github.io/Guess-my-number/)
+1. Launch the Game.  [\[DemoLink\] ](https://lliashko.github.io/Guess-my-number/)
 2. Enter Your Guess: Input your guess into the provided input field.
 3. Submit Your Guess: Click the "Check!" button to check if your guess is correct.
 4. Hints: If your guess is incorrect, you'll receive a hint whether your guess is too high or too low.
