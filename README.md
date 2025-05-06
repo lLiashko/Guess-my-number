@@ -7,6 +7,8 @@ This is a simple and fun web-based game where your goal is to guess a randomly g
 
 [Play Now](https://lliashko.github.io/Guess-my-number/)
 
+![image](https://github.com/user-attachments/assets/e925baeb-271b-4aad-885e-79738a5b4177)
+
 ## 🕹️ How to Play
 
 1. **Launch the Game** – Open the game in your browser.
